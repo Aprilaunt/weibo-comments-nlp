@@ -256,7 +256,7 @@ Referrer Policy:no-referrer-when-downgrade
 确认 参数 id 为此篇博文对应的id，而page则为评论页数。
 
 使用request请求返回JSON串再解析。
-循环解析到数据库，使用jieba分词，思颖SnowNPL分析情感。
+循环解析到数据库，使用jieba分词，使用SnowNPL分析情感。
 
 ## 注意
 
